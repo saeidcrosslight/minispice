@@ -1,0 +1,87 @@
+[
+    {
+        "name": "New",
+        "class": "glyphicon glyphicon-file",
+        "disabled": "",
+        "title": "New project"
+    },
+    {
+        "name": "Open",
+        "class": "glyphicon glyphicon-folder-open",
+        "disabled": "disabled",
+        "title": "Open existing project"
+    },
+    {
+        "name": "Close",
+        "class": "glyphicon glyphicon-folder-close",
+        "disabled": "disabled",
+        "title": "Close project"
+    },
+    {
+        "name": "Save",
+        "class": "glyphicon glyphicon-save",
+        "disabled": "disabled",
+        "title": "Save all in the project"
+    },
+    {
+        "name": "Settings",
+        "class": "glyphicon glyphicon-cog",
+        "disabled": "",
+        "title": "Set the path of this application"
+    },
+    {
+        "name": "Undo",
+        "class": "glyphicon glyphicon-arrow-left",
+        "disabled": "disabled",
+        "title": "Undo the last action"
+    },
+    {
+        "name": "Redo",
+        "class": "glyphicon glyphicon-arrow-right",
+        "disabled": "disabled",
+        "title": "Redo the last action"
+    },
+    {
+        "name": "wire",
+        "class": "",
+        "disabled": "",
+        "title": "add wire"
+    },
+    {
+        "name": "capacitor",
+        "class": "",
+        "disabled": "",
+        "title": "draw capacitor"
+    },
+    {
+        "name": "inductor",
+        "class": "",
+        "disabled": "",
+        "title": "draw inductor"
+    },
+    {
+        "name": "ground",
+        "class": "",
+        "disabled": "",
+        "title": "draw ground"
+    },
+    {
+        "name": "component",
+        "class": "",
+        "disabled": "",
+        "title": "add component"
+    },
+    {
+        "name": "diode",
+        "class": "",
+        "disabled": "",
+        "title": "add diode"
+    },
+    {
+        "name": "resistor",
+        "class": "",
+        "disabled": "",
+        "title": "add resistor"
+    }
+
+]
